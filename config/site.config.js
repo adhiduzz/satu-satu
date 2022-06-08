@@ -42,7 +42,7 @@ module.exports = {
   // the directories in which you have .password set. Check the documentation for details.
    protectedRoutes: ['/plm/trial1', '/plm/trial2'],
 
-  hiddenRoutes: ['/plm/trial1'],
+  hiddenRoutes: [],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   // email: 'mailto:spencer.wushangbo@gmail.com',
